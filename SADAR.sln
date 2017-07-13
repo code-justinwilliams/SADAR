@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADAR", "SADAR.csproj", "{33A200BD-F600-07AB-5543-5108A207EA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADAR.Editor", "SADAR.Editor.csproj", "{2E9E2012-328B-ED01-5F56-806919A73A64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A200BD-F600-07AB-5543-5108A207EA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A200BD-F600-07AB-5543-5108A207EA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A200BD-F600-07AB-5543-5108A207EA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A200BD-F600-07AB-5543-5108A207EA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9E2012-328B-ED01-5F56-806919A73A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9E2012-328B-ED01-5F56-806919A73A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9E2012-328B-ED01-5F56-806919A73A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9E2012-328B-ED01-5F56-806919A73A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

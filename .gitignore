@@ -1,1 +1,14 @@
+#=================#
+# Unity Generated #
+#=================#
 Library/
+Temp/
+Obj/
+UnityGenerated/
+.nuget/
+BundleOutput
+
+#=================#
+# Visual Studio   #
+#=================#
+/*.csproj
